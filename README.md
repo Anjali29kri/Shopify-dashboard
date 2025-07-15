@@ -12,5 +12,8 @@
 
 ## Dataset Used:
 - <a href="https://github.com/Anjali29kri/Shopify-dashboard/blob/main/Shopify%20Sales.xlsx">Dataset</a>
+## Dataset Terminology:
+- <a href="https://github.com/Anjali29kri/Shopify-dashboard/blob/main/Shopify%20-%20Data%20Terminology.docx">Dataterminology</a>
+
 
 
