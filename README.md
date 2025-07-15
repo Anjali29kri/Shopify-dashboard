@@ -11,5 +11,6 @@
 -Optimize marketing and sales strategies based on data-driven insights.
 
 ## Dataset Used:
+- <a href="https://github.com/Anjali29kri/Shopify-dashboard/blob/main/Shopify%20Sales.xlsx">Dataset</a>
 
 
