@@ -16,21 +16,25 @@
 - <a href="https://github.com/Anjali29kri/Shopify-dashboard/blob/main/Shopify%20-%20Data%20Terminology.docx">Dataterminology</a>
 ## Tech Stack:
  The dashboard was built using the following tools and technologies:
+ 
 • 📊 Power BI Desktop – Main data visualization platform used for report creation.
+
 • 📂 Power Query – Data transformation and cleaning layer for reshaping and preparing the data.
+
 • 🧠 DAX (Data Analysis Expressions) – Used for calculated measures, dynamic visuals, and conditional logic.
+
 • 📝 Data Modeling – Relationships established among tables to enable cross-filtering and aggregation.
 ## Walkthrough: Key Visuals
 
 1. Key Performance Indicators (KPIs):
 
--Total Sales: Displays the overall revenue generated.
+   -Total Sales: Displays the overall revenue generated.
 
--Total Customers: Shows the total count of unique customers.
+   -Total Customers: Shows the total count of unique customers.
 
--Total Quantity: Indicates the total number of products sold.
+   -Total Quantity: Indicates the total number of products sold.
 
--Repeat Rate: Highlights the percentage of returning customers, a key metric for customer loyalty.
+   -Repeat Rate: Highlights the percentage of returning customers, a key metric for customer loyalty.
 
 2. Product Performance by Type: A bar chart illustrating the contribution of different product categories to overall performance. This allows for quick identification of top-performing product types (e.g., Running Shoes, Tennis Shoes).
 
